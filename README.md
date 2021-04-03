@@ -1,4 +1,4 @@
-My preferred language is **Python**.
+My favorite language is **Python**.
 <br>I have completed Level 3 of **Google's Foobar Challenge**.<br><br>
 <a href="https://twitter.com/pnhathuy07">
 <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-32.png"></a>
