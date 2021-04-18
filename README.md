@@ -9,9 +9,6 @@ My favorite language is **Python**.
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackexchange-32.png"></a>
 <a href="https://github.com/pnhathuy07"><img src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/github-32.png"></a>
 
-<br>
-
-----------
 Contact me
 ---
 You can get my **email address** by running the following code. Written in **Python**.
