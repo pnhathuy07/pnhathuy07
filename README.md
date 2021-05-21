@@ -1,7 +1,5 @@
 Phan Nhat Huy
 ===
-<h3>Software Engineer</h3>
-
 My favorite language is **Python**.
 <br>I have completed the first challenge of Level 4 in **Google's Foobar Challenge**.<br>
 <a href="https://stackoverflow.com/users/14185615/phan-nhat-huy?tab=profile">
@@ -16,6 +14,7 @@ My favorite language is **Python**.
 <h3>Contact me</h3>
 
 You can get my **email address** by running the following **Python** code.
+
 ```python
 from operator import itemgetter
 import re
