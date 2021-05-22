@@ -12,9 +12,13 @@ My favorite language is **Python**.
 <a href="https://github.com/pnhathuy07"><img src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/github-128.png" width="36"></a>
 
 <h3>GitHub Statistics</h3>
-<a href="https://github.com/pnhathuy07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pnhathuy07"></a><br>
+<div align="left">
 <a href="https://github.com/pnhathuy07"><img src="https://github-readme-stats.vercel.app/api?username=pnhathuy07&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24"></a>
-<a href="https://github.com/pnhathuy07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnhathuy07&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8"></a>
+<a href="https://github.com/pnhathuy07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnhathuy07&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8"></a></div><br>
+<h3>GitHub Streaks</h3>
+<div align="left">
+<a href="https://github.com/pnhathuy07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pnhathuy07"></a>
+</div>
 
 <h3>Contact me</h3>
 
@@ -41,4 +45,8 @@ Quick Research is a basic open-source Data Analysis software. The mission of Qui
 **Features**<br>
 Data Cleaning (Dealing with Missing Values), Data Analysis, Data Analysis by Groups, and Data Visualization.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pnhathuy07&repo=quick-research&show_owner=True)](https://github.com/pnhathuy07/quick-research)
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pnhathuy07&repo=quick-research&show_owner=True)](https://github.com/pnhathuy07/quick-research)
+  
+</div>
