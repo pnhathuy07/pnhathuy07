@@ -32,6 +32,6 @@ provide a secure experience when sharing files online.
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pnhathuy07&repo=entropy&show_owner=True)](https://github.com/pnhathuy07/quick-research)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pnhathuy07&repo=entropy&show_owner=True)](https://github.com/pnhathuy07/entropy)
   
 </div>
