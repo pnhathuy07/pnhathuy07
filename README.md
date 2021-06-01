@@ -12,30 +12,15 @@ My favorite language is **Python**.
 <a href="https://github.com/pnhathuy07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pnhathuy07"></a>
 </div>
 
-<h3>Contact me</h3>
-
-You can get my **email address** by running the following **Python** code.
-
-```python
-from operator import itemgetter
-import re
-
-message = 'Hello everyone, my name is Phan Nhat Huy. You can call me Noah. I am interested in Software Programming, Mathematics, and Cryptography. In fact, this message is encrypted and the only way that you can decrypt the message is to run this code!'
-list = re.findall(r'([A-Z](?=..n)|\.(?<=uy\.)|.(?=\scal)|.(?<=[A-Z]o.h)|a(?=m\s)|.(?=wa)(?<=of.)|.(?=e)(?<=\s[A-Z][a-z]{3})|[a-z](?=\s)(?<=you)|[a-z](?=p.)(?<=de.r.))', message) + [str(x) for x in itemgetter(0, -3)(range(10))]
-
-print(''.join(list).lower() + '@gmail.com')
-```
-You can talk with me about anything you want but make sure you use the pronouns **He/him**
-
 Projects
 ---
 
 <h3>Quick Research</h3>
 
-Quick Research is a basic open-source Data Analysis software. The mission of Quick Research is to give students the fundamental tools of Data Science when conducting scientific researches.
+Quick Research is an open-source Survey Analysis software. The main goal of Quick Research is to make Data Science tools accessible and useful to everyone.
 
 **Features**<br>
-Data Cleaning (Dealing with Missing Values), Data Analysis, Data Analysis by Groups, and Data Visualization.
+Dealing with Missing Values, Clustering Data, Data Analysis, Data Analysis by Groups, and Data Visualization.
 
 <div align="center">
   
