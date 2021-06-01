@@ -19,9 +19,6 @@ Projects
 
 Quick Research is an open-source Survey Analysis software. The main goal of Quick Research is to make Data Science tools accessible and useful to everyone.
 
-**Features**<br>
-Dealing with Missing Values, Clustering Data, Data Analysis, Data Analysis by Groups, and Data Visualization.
-
 <div align="center">
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pnhathuy07&repo=quick-research&show_owner=True)](https://github.com/pnhathuy07/quick-research)
