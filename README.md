@@ -2,14 +2,6 @@ Phan Nhat Huy
 ===
 My favorite language is **Python**.
 <br>I have completed the first challenge of Level 4 in **Google's Foobar Challenge**.<br>
-<a href="https://stackoverflow.com/users/14185615/phan-nhat-huy?tab=profile">
-<img src="https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__stackoverflow_-256.png" width="128"></a>
-<br>
-<a href="https://twitter.com/pnhathuy07">
-<img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-128.png" width="36"></a>
-<a href="https://stackexchange.com/users/19398513/phan-nhat-huy">
-<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackexchange-128.png" width="36"></a>
-<a href="https://github.com/pnhathuy07"><img src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/github-128.png" width="36"></a>
 
 <h3>GitHub Statistics</h3>
 <div align="left">
