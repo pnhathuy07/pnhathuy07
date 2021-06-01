@@ -1,6 +1,6 @@
 Phan Nhat Huy
 ===
-I usually work with **Python**.
+I work with **Python**.
 <br>I have completed the first challenge of Level 4 in **Google's Foobar Challenge**.<br>
 
 <h3>GitHub Statistics</h3>
