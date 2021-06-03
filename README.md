@@ -3,6 +3,11 @@ Phan Nhat Huy
 I would like to work with **Python**.
 <br>I have completed the first challenge of Level 4 in **Google's Foobar Challenge**.<br>
 
+<h3>Contact me</h3>
+If you have anything that you want to say, please don't hesitate to contact me.<br>
+
+**p.nhathuy07@gmail.com**
+
 <h3>GitHub Statistics</h3>
 <div align="left">
 <a href="https://github.com/pnhathuy07"><img src="https://github-readme-stats.vercel.app/api?username=pnhathuy07&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24"></a>
