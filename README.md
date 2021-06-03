@@ -17,7 +17,7 @@ Projects
 
 <h3>Quick Research</h3>
 
-Quick Research is an open-source Survey Analysis software. The main goal of Quick Research is to make Data Science tools accessible and useful to everyone.
+Quick Research is an open-source Survey Analysis software. The main goal of Quick Research is to make Data Science tools accessible and useful to everyone, including non-technical people.
 
 <div align="center">
   
