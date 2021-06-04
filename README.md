@@ -20,16 +20,6 @@ If you have anything that you want to say, please don't hesitate to contact me.<
 Projects
 ---
 
-<h3>Quick Research</h3>
-
-Quick Research is an open-source Survey Analysis software. The main goal of Quick Research is to make Data Science tools accessible and useful to everyone, including non-technical people.
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pnhathuy07&repo=quick-research&show_owner=True)](https://github.com/pnhathuy07/quick-research)
-  
-</div>
-
 <h3>Entropy</h3>
 
 Entropy is a File Encryption software. Entropy helps people to securely encrypt, decrypt, or destroy files completely. Our goal is to give everyone the privacy they deserve and 
@@ -37,6 +27,16 @@ provide a secure experience when sharing files online.
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pnhathuy07&repo=entropy&show_owner=True)](https://github.com/pnhathuy07/entropy)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iocen&repo=entropy&show_owner=True)](https://github.com/pnhathuy07/entropy)
+  
+</div>
+
+<h3>Quick Research</h3>
+
+Quick Research is an open-source Survey Analysis software. The main goal of Quick Research is to make Data Science tools accessible to everyone, including non-technical people.
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pnhathuy07&repo=quick-research&show_owner=True)](https://github.com/pnhathuy07/quick-research)
   
 </div>
