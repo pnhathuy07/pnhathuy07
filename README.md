@@ -8,8 +8,6 @@ If you have anything that you want to say, please don't hesitate to contact me.<
 
 **p.nhathuy07@gmail.com**
 
-Especially if you are **@alexemanuelol**. I would like to collaborate with you, but couldn't find any ways to get in touch with.
-
 <h3>GitHub Statistics</h3>
 <div align="left">
 <a href="https://github.com/pnhathuy07"><img src="https://github-readme-stats.vercel.app/api?username=pnhathuy07&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24"></a>
