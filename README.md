@@ -1,6 +1,6 @@
 Phan Nhat Huy
 ===
-I would like to work with **Python**.
+I mainly code in **Python**.
 <br>I have completed the first challenge of Level 4 in **Google's Foobar Challenge**.<br>
 
 <h3>GitHub Statistics</h3>
