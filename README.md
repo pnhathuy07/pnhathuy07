@@ -1,4 +1,4 @@
-Phan Nhat Huy
+Phan
 ===
 <h3>GitHub Statistics</h3>
 <div align="left">
